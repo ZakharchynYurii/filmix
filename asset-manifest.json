@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/filmix/static/css/main.0fbf7675.chunk.css",
+    "main.js": "/filmix/static/js/main.8cbc3982.chunk.js",
+    "main.js.map": "/filmix/static/js/main.8cbc3982.chunk.js.map",
+    "runtime-main.js": "/filmix/static/js/runtime-main.2dbbfdd5.js",
+    "runtime-main.js.map": "/filmix/static/js/runtime-main.2dbbfdd5.js.map",
+    "static/css/2.983f79de.chunk.css": "/filmix/static/css/2.983f79de.chunk.css",
+    "static/js/2.4cef2977.chunk.js": "/filmix/static/js/2.4cef2977.chunk.js",
+    "static/js/2.4cef2977.chunk.js.map": "/filmix/static/js/2.4cef2977.chunk.js.map",
+    "index.html": "/filmix/index.html",
+    "static/css/2.983f79de.chunk.css.map": "/filmix/static/css/2.983f79de.chunk.css.map",
+    "static/css/main.0fbf7675.chunk.css.map": "/filmix/static/css/main.0fbf7675.chunk.css.map",
+    "static/js/2.4cef2977.chunk.js.LICENSE.txt": "/filmix/static/js/2.4cef2977.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dbbfdd5.js",
+    "static/css/2.983f79de.chunk.css",
+    "static/js/2.4cef2977.chunk.js",
+    "static/css/main.0fbf7675.chunk.css",
+    "static/js/main.8cbc3982.chunk.js"
+  ]
+}
